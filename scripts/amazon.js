@@ -1,3 +1,4 @@
+
 let productHTML = "";
 
 products.forEach((product) => {
